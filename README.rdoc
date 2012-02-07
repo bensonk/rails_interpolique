@@ -1,0 +1,4 @@
+= Interpolique
+
+This project rocks and uses MIT-LICENSE.  Designed as a rails friendly implementation 
+of Dan Kaminsky's Interpolique (http://dankaminsky.com/interpolique/). 
